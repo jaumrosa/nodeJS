@@ -9,6 +9,7 @@
   "author": "João Rosa",
   "license": "ISC",
   "dependencies": {
+    "consign": "^0.1.6",
     "express": "^4.21.2",
     "nodemon": "^3.1.9"
   }
